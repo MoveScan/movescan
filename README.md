@@ -34,4 +34,4 @@ Including basic queries such as blocks, transactions and addresses, as well as t
 
 
 ## License
-starcoin-java is licensed as [Apache 2.0](./LICENSE).
+MoveScan is licensed as [Apache 2.0](./LICENSE).
